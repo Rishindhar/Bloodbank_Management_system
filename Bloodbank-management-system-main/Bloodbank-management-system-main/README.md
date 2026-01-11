@@ -14,23 +14,19 @@ This project was developed as part of my B.Tech program and reflects my effort i
 - **User Authentication**: Ensures secure access to the system for authorized users.
 
 ## Screenshots
-Below are some screenshots showcasing the Blood Bank Management System's interface and functionalities:
 
+![Login Page](https://raw.githubusercontent.com/Rishindhar/Bloodbank_Management_system/main/Bloodbank-management-system-main/Bloodbank-management-system-main/miniproject_dbms/images/Login_Page.png)
 
-![Login Page](https://github.com/Rishindhar/Bloodbank-management-system/blob/main/miniproject_dbms/images/Login_Page.png)
-![Home Page](https://github.com/Rishindhar/Bloodbank-management-system/blob/main/miniproject_dbms/images/Homepage.png)
-![Donor Registration](https://github.com/Rishindhar/Bloodbank-management-system/blob/main/miniproject_dbms/images/Donor_registration_Page.png)
+![Home Page](https://raw.githubusercontent.com/Rishindhar/Bloodbank_Management_system/main/Bloodbank-management-system-main/Bloodbank-management-system-main/miniproject_dbms/images/Homepage.png)
 
+![Donor Registration](https://raw.githubusercontent.com/Rishindhar/Bloodbank_Management_system/main/Bloodbank-management-system-main/Bloodbank-management-system-main/miniproject_dbms/images/Donor_registration_Page.png)
 
-
-## Entity-Relationship (ER) Diagram
-The ER Diagram illustrates the data model of the system, depicting the relationships between different entities.
-![ER Diagram](https://github.com/Rishindhar/Bloodbank-management-system/blob/main/miniproject_dbms/images/ER-Diagram.png)
-
+## ER Diagram
+![ER Diagram](https://raw.githubusercontent.com/Rishindhar/Bloodbank_Management_system/main/Bloodbank-management-system-main/Bloodbank-management-system-main/miniproject_dbms/images/ER-Diagram.png)
 
 ## Database Schema
-The database schema diagram presents the structure and relationships within the database, providing insights into how data is organized and managed.
-![Database Schema](https://github.com/Rishindhar/Bloodbank-management-system/blob/main/miniproject_dbms/images/Database_Schema.png)
+![Database Schema](https://raw.githubusercontent.com/Rishindhar/Bloodbank_Management_system/main/Bloodbank-management-system-main/Bloodbank-management-system-main/miniproject_dbms/images/Database_Schema.png)
+
 
 ## Technologies Used
 - **Front-end Development**: HTML5, CSS
