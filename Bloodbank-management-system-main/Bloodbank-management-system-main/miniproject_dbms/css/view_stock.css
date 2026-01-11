@@ -1,0 +1,101 @@
+body {
+  background-color: #F3F0D7;
+}
+
+.container-fluid{
+  padding: 1% 6%;
+  background-color: #DF2E2E;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav_elements {
+  padding-left: 40%;
+  padding-left: 300px;
+}
+
+
+
+.form {
+  margin: 48px auto 18px;
+  width: min(900px, calc(100% - 32px));
+  padding: 18px 18px 8px;
+  background: rgb(184, 252, 210);
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-image: 0rem;
+}
+
+.stock-title {
+    text-align: center;
+    margin: 10px 0 18px;
+}
+
+
+
+.stock-input {
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 12px 14px;
+    margin-bottom: 14px;
+    height: auto;
+    width: 100%;
+    background-color: #e1f4fa;
+    border-style: groove;
+}
+
+.stock-button {
+  margin: 10px auto 18px;
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.middle {
+  background-color: rgb(244, 253, 159);
+  margin: 0 auto 48px;
+  width: min(900px, calc(100% - 32px));
+  padding: 18px;
+  text-align: center;
+  border-style: solid;
+}
+
+
+.middle table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.middle th,
+.middle td {
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(15, 23, 42, 0.2);
+  text-align: left;
+}
+
+.middle thead th {
+  border-bottom: 2px solid rgba(15, 23, 42, 0.35);
+}
+
+/* about part */
+.bottom {
+  background-color: #FF616D;
+  font-size: 1.2rem;
+  padding: 8%;
+  text-align: left;
+}
+
+
